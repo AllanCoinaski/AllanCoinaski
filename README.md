@@ -20,17 +20,15 @@ Here are some ideas to get you started:
 
 ### <div align="center">Meu nome é Állan, desenvolvedor full-stack.</div>  
   
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 
+- 🔭 Atualmente estou trabalhando em uma E-commerce
+- 🌱 Atualmente estou aprendendo ...
+- 👯 Estou procurando colaborar em ...
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como entrar em contato comigo: ...
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: .. 
   
 
 <br/>  
