@@ -18,16 +18,14 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">Meu nome é Állan, desenvolvedor full-stack.</div>  
+### <div align="center">Meu nome é Állan, sou desenvolvedor full-stack.</div>  
   
 - 
-- 🔭 Atualmente estou trabalhando em uma E-commerce
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
+- 🔭 Atualmente estou trabalhando em uma plataforma <a target="_blank" href="https://plataforma.tenbrasil.com.br/" E-commerce Solar </a>(Laravel/Node.Js) e um Aplicativo Mobile de agendamento para Android e IOS(Flutter/Laravel). 
+- 🔭 Scrum Master do time na <a target="_blank" href = "https://tenbrasil.com.br/" TenBrasil</a>
+- 🔭 Líder de projeto DiAgro aprovado pelo programa <a target="_blank" href="https://fapesc.sc.gov.br/2022/06/23/edital-de-chamada-publica-fapesc-sebrae-no-26-2022-programa-nascer-de-pre-incubacao-de-ideias-inovadoras-para-o-ecossistema-catarinense-de-inovacao-3a-edicao/" </a> Nascer organizado pelo Fapesc/Sebrae de Santa Catarina.
+- 🌱 Atualmente estou aprendendo MongoDB e Solidity.
+- 💬 Pergunte-me sobre tecnologia, finanças e games.
 - ⚡ Curiosidade: .. 
   
 
