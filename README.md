@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## My Skill Set  
+## Minhas Skills 
 <table><tr><td valign="top" width="33%">
 
 
@@ -111,10 +111,4 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCoinaski&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanCoinaski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-  
-## Estou aprendendo
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
 
