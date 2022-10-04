@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div> - 🔭 Scrum Master do time na <a href = "https://tenbrasil.com.br/" target="_blank"/> TenBrasil</a> </div> 
 
-<div> - 🔭 Líder de projeto DiAgro aprovado pelo programa <a href="https://fapesc.sc.gov.br/2022/06/23/edital-de-chamada-publica-fapesc-sebrae-no-26-2022-programa-nascer-de-pre-incubacao-de-ideias-inovadoras-para-o-ecossistema-catarinense-de-inovacao-3a-edicao/" target="_blank"/> </a> Nascer organizado pelo Fapesc/Sebrae de Santa Catarina. </div> 
+<div> - 🔭 Líder de projeto DiAgro aprovado pelo programa <a href="https://fapesc.sc.gov.br/2022/06/23/edital-de-chamada-publica-fapesc-sebrae-no-26-2022-programa-nascer-de-pre-incubacao-de-ideias-inovadoras-para-o-ecossistema-catarinense-de-inovacao-3a-edicao/" target="_blank"/> Nascer </a>  organizado pelo Fapesc/Sebrae de Santa Catarina. </div> 
  
 <div> - 🌱 Atualmente estou aprendendo MongoDB e Solidity. </div> 
 <div> - 💬 Pergunte-me sobre tecnologia, finanças e games. </div>
