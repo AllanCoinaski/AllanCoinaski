@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Connect with me  
+## Como me encontrar?
 <div align="center">
 <!-- <a href="https://github.com/AllanCoinaski" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -100,15 +100,11 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:coinaski-allan@hotmail.com" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>  
   
 
 <br/>  
 
 
-<div align="center">
-<a href="https://github.com/AllanCoinaski">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCoinaski&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
