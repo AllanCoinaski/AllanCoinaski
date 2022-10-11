@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <h2 dir="auto"><a id="user-content-allan" class="anchor" aria-hidden="true" href="#allan-coinaski"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Állan Coinaski, desenvolvedor full-stack</h2>
   
 
-<div> - 🔭 Atualmente estou trabalhando em uma plataforma <a href="https://plataforma.tenbrasil.com.br/" target="_blank" /> E-commerce Solar </a>(Laravel/Node.Js) e um Aplicativo Mobile de agendamento para Android e IOS(Flutter/Laravel). </div>  
+<li>  🔭 Atualmente estou trabalhando em uma plataforma <a href="https://plataforma.tenbrasil.com.br/" target="_blank" /> E-commerce Solar </a>(Laravel/Node.Js) e um Aplicativo Mobile de agendamento para Android e IOS(Flutter/Laravel). </li>  
 
-<div> - 🔭 Scrum Master do time na <a href = "https://tenbrasil.com.br/" target="_blank"/> TenBrasil</a> </div> 
+<li>  🔭 Scrum Master do time na <a href = "https://tenbrasil.com.br/" target="_blank"/> TenBrasil</a> </li> 
 
-<div> - 🔭 Líder do projeto DiAgro, aprovado pelo programa <a href="https://fapesc.sc.gov.br/2022/06/23/edital-de-chamada-publica-fapesc-sebrae-no-26-2022-programa-nascer-de-pre-incubacao-de-ideias-inovadoras-para-o-ecossistema-catarinense-de-inovacao-3a-edicao/" target="_blank"/> Nascer </a>  organizado pelo Fapesc/Sebrae de Santa Catarina. </div> 
+<li>  🔭 Líder do projeto DiAgro, aprovado pelo programa <a href="https://fapesc.sc.gov.br/2022/06/23/edital-de-chamada-publica-fapesc-sebrae-no-26-2022-programa-nascer-de-pre-incubacao-de-ideias-inovadoras-para-o-ecossistema-catarinense-de-inovacao-3a-edicao/" target="_blank"/> Nascer </a>  organizado pelo Fapesc/Sebrae de Santa Catarina. </li> 
  
-<div> - 💬 Pergunte-me sobre tecnologia, finanças e games. </div>
+<li>  💬 Pergunte-me sobre tecnologia, finanças e games. </li>
 
 
 <br/>  
@@ -88,6 +88,21 @@ Here are some ideas to get you started:
 <br/>  
 
 
+## Alguns projetos que já desenvolvi
+<li> Plataforma de vendas de energia solar | <a href="https://plataforma.tenbrasil.com.br" target="_blank"/> Web </a> | Laravel + Node.Js </li>  
+<li> Aplicativo de vendas de energia solar (em desenvolvimento) | Flutter + Node.Js </li>  
+<li> Aplicativo 19barbers   | <a href="" target="_blank"/> Play Store </a> | <a href="" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
+<li> Aplicativo SafePix   | <a href="" target="_blank"/> Play Store </a> | <a href="" target="_blank"/> App Store </a>| Flutter  </li>  
+<li> Aplicativo MX do Brasil   | <a href="" target="_blank"/> Play Store </a> | <a href="" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
+<li> Aplicativo Angela Maria Fotógrafa   | <a href="" target="_blank"/> Play Store </a> | <a href="" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
+<li> Aplicativo Projeto Fácil   | <a href="" target="_blank"/> Play Store </a> | <a href="" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
+<li> Aplicativo Zita   | <a href="" target="_blank"/> Play Store </a>  | Flutter + Node.Js </li>  
+
+
+
+<br/>  
+
+
 ## Como me encontrar?
 <div align="center">
 <!-- <a href="https://github.com/AllanCoinaski" target="_blank">
@@ -102,9 +117,5 @@ Here are some ideas to get you started:
 <a href="mailto:coinaski-allan@hotmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>  
-  
-
-<br/>  
-
 
 
