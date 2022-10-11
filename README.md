@@ -91,12 +91,12 @@ Here are some ideas to get you started:
 ## Alguns projetos que já desenvolvi
 <li> Plataforma de vendas de energia solar | <a href="https://plataforma.tenbrasil.com.br" target="_blank"/> Web </a> | Laravel + Node.Js </li>  
 <li> Aplicativo de vendas de energia solar (em desenvolvimento) | Flutter + Node.Js </li>  
-<li> Aplicativo 19barbers   | <a href="" target="_blank"/> Play Store </a> | <a href="" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
-<li> Aplicativo SafePix   | <a href="" target="_blank"/> Play Store </a> | <a href="" target="_blank"/> App Store </a>| Flutter  </li>  
-<li> Aplicativo MX do Brasil   | <a href="" target="_blank"/> Play Store </a> | <a href="" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
-<li> Aplicativo Angela Maria Fotógrafa   | <a href="" target="_blank"/> Play Store </a> | <a href="" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
-<li> Aplicativo Projeto Fácil   | <a href="" target="_blank"/> Play Store </a> | <a href="" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
-<li> Aplicativo Zita   | <a href="" target="_blank"/> Play Store </a>  | Flutter + Node.Js </li>  
+<li> Aplicativo 19barbers   | <a href="https://play.google.com/store/apps/details?id=br.com.u19demarco.barber19demarco" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/19barbers/id1526017347" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
+<li> Aplicativo SafePix   | <a href="https://play.google.com/store/apps/details?id=com.safe.pix" target="_blank"/> Play Store </a> | Flutter  </li>  
+<li> Aplicativo MX do Brasil   | <a href="https://play.google.com/store/apps/details?id=br.septecnologia.mx.mxdobrasil" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/mx-do-brasil/id1630850119" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
+<li> Aplicativo Angela Maria Fotógrafa   | <a href="https://play.google.com/store/apps/details?id=br.com.septecnologia.angela_maria_fotografa.angela_maria_fotografa" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/angela-maria-fot%C3%B3grafa/id1556359740" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
+<li> Aplicativo Projeto Fácil   | <a href="https://play.google.com/store/apps/details?id=br.com.septecnologia.appprojetofacil" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/projetof%C3%A1cil/id1546555129" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
+<li> Aplicativo Zita   | <a href="https://play.google.com/store/apps/details?id=br.com.alp.zita.zita" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/zita/id1581347519" target="_blank"/> App Store </a> | Flutter + Node.Js </li>  
 
 
 
