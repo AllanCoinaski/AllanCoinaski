@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 <li> Aplicativo Angela Maria Fotógrafa   | <a href="https://play.google.com/store/apps/details?id=br.com.septecnologia.angela_maria_fotografa.angela_maria_fotografa" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/angela-maria-fot%C3%B3grafa/id1556359740" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
 <li> Aplicativo Projeto Fácil   | <a href="https://play.google.com/store/apps/details?id=br.com.septecnologia.appprojetofacil" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/projetof%C3%A1cil/id1546555129" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
 <li> Aplicativo Zita   | <a href="https://play.google.com/store/apps/details?id=br.com.alp.zita.zita" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/zita/id1581347519" target="_blank"/> App Store </a> | Flutter + Node.Js </li>  
-<li> Plataforma de software e hardware para coleta e mediçãi de precipitações | <a href="https://anais.abrhidro.org.br/works/5657" target="_blank"/> Artigo </a> | C++ + Lua + Laravel </li> 
+<li> Plataforma de software e hardware para coleta e medição de precipitações | <a href="https://anais.abrhidro.org.br/works/5657" target="_blank"/> Artigo </a> | C++ + Lua + Laravel </li> 
 
 
 <br/>  
