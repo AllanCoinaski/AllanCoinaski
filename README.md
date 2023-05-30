@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 </td><td valign="top" width="33%">
 
 
-
 ### Outras  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -83,14 +82,12 @@ Here are some ideas to get you started:
 </div>
 
 </td></tr></table>  
-<div> - 🌱 Atualmente estou aprendendo MongoDB e Solidity. </div> 
 
 <br/>  
 
-
 ## Alguns projetos que já desenvolvi
 <li> Plataforma de vendas de energia solar | <a href="https://plataforma.tenbrasil.com.br" target="_blank"/> Web </a> | Laravel + Node.Js </li>  
-<li> Aplicativo de vendas de energia solar (em desenvolvimento) | Flutter + Node.Js </li>  
+<li> Aplicativo de vendas de energia solar  | <a href="https://play.google.com/store/apps/details?id=br.com.tenbrasil.order.order" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/tenapp/id6447911618" target="_blank"/> App Store </a>| Flutter </li>  
 <li> Aplicativo 19barbers   | <a href="https://play.google.com/store/apps/details?id=br.com.u19demarco.barber19demarco" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/19barbers/id1526017347" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
 <li> Aplicativo SafePix   | <a href="https://play.google.com/store/apps/details?id=com.safe.pix" target="_blank"/> Play Store </a> | Flutter  </li>  
 <li> Aplicativo MX do Brasil   | <a href="https://play.google.com/store/apps/details?id=br.septecnologia.mx.mxdobrasil" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/mx-do-brasil/id1630850119" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
