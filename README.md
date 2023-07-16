@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  
 <li>  📰 De vez em quando, crio alguns artigos incríveis. Quem sabe, talvez você até ache eles úteis! Acompanhe <a href="https://pingback.com/o-pato-dev/" target="_blank"/> aqui. </a> </li>
 
-<li>  :coffee: Ei, já te dei uma mãozinha em algum momento? Se sim, me ajude a manter minha energia em alta com um <a href="https://pingback.com/o-pato-dev/" target="_blank"/> cafezinho virtual. </a> Juntos, formamos a dupla imbatível da inteligência artificial e da cafeína! </li>
+<li>  :coffee: Ei, já te dei uma mãozinha em algum momento? Se sim, me ajude a manter minha energia em alta com um <a href="https://pingback.com/o-pato-dev/loop" target="_blank"/> cafezinho virtual. </a> Juntos, formamos a dupla imbatível da inteligência artificial e da cafeína! </li>
 
 
 
