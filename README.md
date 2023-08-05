@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <li>  🔭 Líder do projeto Cultivi, terceiro colocado no programa <a href="https://fapesc.sc.gov.br/2022/06/23/edital-de-chamada-publica-fapesc-sebrae-no-26-2022-programa-nascer-de-pre-incubacao-de-ideias-inovadoras-para-o-ecossistema-catarinense-de-inovacao-3a-edicao/" target="_blank"/> Nascer </a>  organizado pelo Fapesc/Sebrae de Santa Catarina. </li> 
  
-<li>  📰 De vez em quando, crio alguns artigos incríveis. Quem sabe, talvez você até ache eles úteis! Acompanhe <a href="https://pingback.com/o-pato-dev/" target="_blank"/> aqui. </a> </li>
+<li>  📰 De vez em quando, crio alguns artigos incríveis. Quem sabe, talvez você até ache eles úteis! Acompanhe <a href="https://medium.com/@opatodev" target="_blank"/> aqui. </a> </li>
 
 <li>  :coffee: Ei, já te dei uma mãozinha em algum momento? Se sim, me ajude a manter minha energia em alta com um <a href="https://pingback.com/o-pato-dev/loop" target="_blank"/> cafezinho virtual. </a> Juntos, formamos a dupla imbatível da inteligência artificial e da cafeína! </li>
 
