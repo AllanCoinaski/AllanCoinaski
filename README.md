@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  <li> 🏢 Desenvolvedor FullStack. </li> 
  
-<li>  💻 Atuando em uma plataforma <a href="https://plataforma.tenbrasil.com.br/" target="_blank" /> E-commerce Solar</a> utilizando Laravel, Node.JS e Flutter para <a href = "https://tenbrasil.com.br/" target="_blank"/> TenBrasil</a>. </li>
+<li>  💻 Atuando em uma plataforma de cálculos tributários utilizando Laravel para <a href = "https://tenbrasil.com.br/" target="_blank"/> TenBrasil</a>. </li>
 
 <li>  🔭 Líder do projeto Cultivi, terceiro colocado no programa <a href="https://fapesc.sc.gov.br/2022/06/23/edital-de-chamada-publica-fapesc-sebrae-no-26-2022-programa-nascer-de-pre-incubacao-de-ideias-inovadoras-para-o-ecossistema-catarinense-de-inovacao-3a-edicao/" target="_blank"/> Nascer </a>  organizado pelo Fapesc/Sebrae de Santa Catarina. </li> 
  
@@ -89,6 +89,7 @@ Here are some ideas to get you started:
 <br/>  
 
 ## Alguns projetos que já desenvolvi
+<li> Aplicativo e Plataforma Polioeste   | <a href="https://play.google.com/store/apps/details?id=br.com.polioeste.polioeste" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/app/polioeste-app/id6449092453" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
 <li> Plataforma de vendas de energia solar | <a href="https://plataforma.tenbrasil.com.br" target="_blank"/> Web </a> | Laravel + Node.Js </li>  
 <li> Aplicativo de vendas de energia solar  | <a href="https://play.google.com/store/apps/details?id=br.com.tenbrasil.order.order" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/tenapp/id6447911618" target="_blank"/> App Store </a>| Flutter </li>  
 <li> Aplicativo 19barbers   | <a href="https://play.google.com/store/apps/details?id=br.com.u19demarco.barber19demarco" target="_blank"/> Play Store </a> | <a href="https://apps.apple.com/br/app/19barbers/id1526017347" target="_blank"/> App Store </a>| Flutter + Laravel </li>  
