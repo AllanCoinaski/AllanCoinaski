@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  <li> 🏢 Desenvolvedor FullStack. </li> 
  
-<li>  💻 Atuando em uma plataforma de cálculos tributários utilizando Laravel para <a href = "https://tenbrasil.com.br/" target="_blank"/> TenBrasil</a>. </li>
+<li>  💻 Atuando em uma plataforma de vendas usando Node com Typescript, e NextJs <a href = "https://tenbrasil.com.br/" target="_blank"/> TenBrasil</a>. </li>
 
 <li>  🔭 Sócio do projeto Cultivi, terceiro colocado no programa <a href="https://fapesc.sc.gov.br/2022/06/23/edital-de-chamada-publica-fapesc-sebrae-no-26-2022-programa-nascer-de-pre-incubacao-de-ideias-inovadoras-para-o-ecossistema-catarinense-de-inovacao-3a-edicao/" target="_blank"/> Nascer </a>  organizado pelo Fapesc/Sebrae de Santa Catarina. </li> 
  
